@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+        ::-webkit-scrollbar{
+            display: none;
+        }
+
+        img{
+            width: 100vw;
+        }
